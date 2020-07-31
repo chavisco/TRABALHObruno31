@@ -1,0 +1,10 @@
+Questão 1:
+var divNova = document.createElement("div");
+
+Questão 2:
+var divAtual = document.getElementById("div1"); 
+document.body.insertBefore(divNova, divAtual); 
+}
+
+
+

@@ -1,0 +1,6 @@
+questao 1
+document.getElementsByClassName('teste');
+questao 2
+var elements = document.getElementsByTagName(p);
+
+

@@ -1,0 +1,7 @@
+Questão 1:
+var el = document.querySelector("SENAI ");
+Questão 2:
+let p = document.createElement("p"); document.body.appendChild(p);
+
+
+
